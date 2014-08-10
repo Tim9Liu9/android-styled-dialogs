@@ -174,6 +174,7 @@ public class MyActivity extends FragmentActivity implements
 
     public void showSelectedItem(String value, int number) {
         Toast.makeText(c, "Selected: " + value, Toast.LENGTH_SHORT).show();
+        // 
     }
 
     // ISimpleDialogCancelListener
